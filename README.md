@@ -1,2 +1,3 @@
 # demo
-my first git repo
+My First Git Repo.
+Author ~ Harshay Chandrakar
